@@ -1,6 +1,6 @@
 # Cat Frontend Circle Road Map (English) (Recommended)
 
-This road map is all about reaching the target of our circle which cares about moving a zero skilled student to a good point as a front end developer and programmers in general.
+This road map is all about reaching the target of our circle which cares about moving a zero skilled student to a good point as a front end developer and programmer in general.
 
 ## Resources
 
@@ -51,7 +51,15 @@ This road map is all about reaching the target of our circle which cares about m
 
 JavaScript, often abbreviated as **JS**, is a **programming language** that conforms to the ECMAScript specification. JavaScript is high-level, often just-in-time compiled, and multi-paradigm. It has curly-bracket syntax, dynamic typing, prototype-based object-orientation, and first-class functions.
 
-> resources
+-   [JS Course - YouTube](https://youtu.be/PkZNo7MFNFg)
+-   [JS DOM - YouTube](https://youtu.be/FIORjGvT0kk?list=PL4cUxeGkcC9gfoKa5la9dsdCNpuey2s-V)
+-   JS BOM
+    -   [JS Window vs Document vs Screen - YouTube](https://youtu.be/pIBKyooZrJQ)
+    -   [Window: move, open, close, size - YouTube](https://youtu.be/ZJng8ls8uH0)
+    -   [cookies vs localStorage vs sessionStorage - YouTube](https://youtu.be/AwicscsvGLg)
+    -   [JS Date Object - YouTube](https://youtu.be/irrxnH-nkqg?list=PL4cUxeGkcC9i9Ae2D9Ee1RvylH38dKuET)
+-   [Async JS - YouTube](https://youtu.be/PoRJizFvM7s)
+-   [Async JS include Rxjs - YouTube](https://youtu.be/jgWnccjXR4I)
 
 ---
 
@@ -73,7 +81,18 @@ React is an open-source **JavaScript library** for building user interfaces or U
 
 ### Channels
 
-> resources
+**Note** This list is not sorted by any parameters.
+
+-   [Traversy Media](https://www.youtube.com/user/TechGuyWeb)
+-   [Academind](https://www.youtube.com/channel/UCSJbGtTlrDami-tDGPUV9-w)
+-   [Programming with Mosh](https://www.youtube.com/channel/UCWv7vMbMWH4-V0ZXdmDpPBA)
+-   [The Net Ninja](https://www.youtube.com/channel/UCW5YeuERMmlnqo4oq8vwUpg)
+-   [Fun Fun Function](https://www.youtube.com/channel/UCO1cgjhGzsSYb1rsB4bFe4Q)
+-   [freeCodeCamp.org](https://www.youtube.com/channel/UC8butISFwT-Wl7EV0hUK0BQ)
+-   [Dev Ed](https://www.youtube.com/channel/UClb90NQQcskPUGDIXsQEz5Q)
+-   [Fireship](https://www.youtube.com/channel/UCsBjURrPoezykLs9EqgamOA)
+-   [DesignCourse](https://www.youtube.com/channel/UCVyRiMvfUNMA1UPlDPzG5Ow)
+-   [Colt Steele](https://www.youtube.com/channel/UCrqAGUPPMOdo0jfQ6grikZw)
 
 ---
 
