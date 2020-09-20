@@ -4,8 +4,8 @@ This road map is all about reaching the target of our circle which cares about m
 
 ## Other Roads
 
--   [Arabic Road Map](https://github.com/MohamedElmdary/cat-frontend-circle-road-map/README-AR.md)
--   [Docs Road Map](https://github.com/MohamedElmdary/cat-frontend-circle-road-map/README-DOCS.md)
+-   [Arabic Road Map](https://github.com/MohamedElmdary/cat-frontend-circle-road-map/blob/master/README-AR.md)
+-   [Docs Road Map](https://github.com/MohamedElmdary/cat-frontend-circle-road-map/blob/master/README-DOCS.md)
 
 ## Resources
 
