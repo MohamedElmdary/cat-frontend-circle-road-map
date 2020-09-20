@@ -69,7 +69,7 @@ JavaScript, often abbreviated as **JS**, is a **programming language** that conf
 
 -   [JS Course - YouTube](https://youtu.be/eKuNnpWhm7c?list=PLDoPjvoNmBAw6p0z0Ek0OjPzeXoqlFlCh)
 -   [JS DOM - YouTube](https://youtu.be/LlQC9sU0coM?list=PLDoPjvoNmBAxx97QDMOCpzxbu1ZHJ4i7i)
--   [JS BOM - YouTube](<(https://youtu.be/cMW4963o6Qo?list=PLDoPjvoNmBAy9nFRJgVYgEID8xE2a6q6V)>)
+-   [JS BOM - YouTube](https://youtu.be/cMW4963o6Qo?list=PLDoPjvoNmBAy9nFRJgVYgEID8xE2a6q6V)
 -   [Async JS English - YouTube](https://youtu.be/PoRJizFvM7s)
 -   [Async JS include Rxjs English - YouTube](https://youtu.be/jgWnccjXR4I)
 -   [ES6 Crash Course - YoutTube](https://youtu.be/DcyOVddJ62E?list=PLDoPjvoNmBAy3siU1b04xY24ZlstofO9M)
