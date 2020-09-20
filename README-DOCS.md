@@ -1,4 +1,4 @@
-# CAT Frontend Circle Road Map (English) (Recommended)
+# CAT Frontend Circle Road Map (DOCS)
 
 This road map is all about reaching the target of our circle which cares about moving a zero skilled student to a good point as a front end developer and programmer in general.
 
@@ -26,9 +26,9 @@ This road map is all about reaching the target of our circle which cares about m
 
 **Hypertext Markup Language** is the standard markup language for documents designed to be displayed in a web browser. It can be assisted by technologies such as Cascading Style Sheets and scripting languages such as JavaScript.
 
--   [HTML Crash Course - YouTube](https://youtu.be/UB1O30fR-EE?list=RDQMEEp1RQZTcE8)
--   [HTML Full Course - YouTube](https://youtu.be/pQN-pnXPaVg)
--   [HTML5 Semantic - YouTube](https://youtu.be/ZC5y7XDdG80)
+-   [HTML - MDN](https://developer.mozilla.org/en-US/docs/Web/HTML)
+-   [HTML5 - MDN](https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/HTML5)
+-   [HTML5 Semantic - MDN](https://developer.mozilla.org/en-US/docs/Glossary/Semantics)
 
 ---
 
@@ -36,21 +36,15 @@ This road map is all about reaching the target of our circle which cares about m
 
 **Cascading Style Sheets** is a style sheet language used for describing the presentation of a document written in a markup language such as HTML. CSS is a cornerstone technology of the World Wide Web, alongside HTML and JavaScript
 
--   [CSS Crash Course - YouTube](https://youtu.be/yfoY53QXEnI)
--   [CSS Positioning - YouTube](https://youtu.be/7ZXsPj43heo?list=PL4cUxeGkcC9hudKGi5o5UiWuTAGbxiLTh)
--   [CSS FlexBox - YouTube](https://youtu.be/Y8zMYaD1bz0?list=PL4cUxeGkcC9i3FXJSUfmsNOx8E7u6UuhG)
--   [CSS Animations - YouTube](https://youtu.be/jgw82b5Y2MU?list=PL4cUxeGkcC9iGYgmEd2dm3zAKzyCGDtM5)
--   [Sass Course - YouTube](https://youtu.be/St5B7hnMLjg?list=PL4cUxeGkcC9iEwigam3gTjU_7IA3W2WZA)
+-   [CSS Docs - codrops](https://tympanus.net/codrops/css_reference/)
+-   [Sass Docs](https://sass-lang.com/documentation)
 
 ---
 
 ### HTML5 & CSS3
 
--   [HTML5 & CSS3 Crash Course - YouTube](https://youtu.be/hu-q2zYwEYs?list=PL4cUxeGkcC9ivBf_eKCPIAYXWzLlPAm6G)
--   [Learn HTML5 and CSS3 - YouTube](https://youtu.be/mU6anWqZJcc)
--   [HTML5 / CSS3 For Beginners - YouTube](https://youtu.be/vQWlgd7hV4A)
--   [Advanced CSS and Sass - Udemy](https://www.udemy.com/course/advanced-css-and-sass/)
--   [CSS - The Complete Guide - Udemy](https://www.udemy.com/course/css-the-complete-guide-incl-flexbox-grid-sass/)
+-   [10 Projects HTML/CSS - geeksforgeeks](https://www.geeksforgeeks.org/top-10-projects-for-beginners-to-practice-html-and-css-skills/)
+-   [7 Projects HTML/CSS - medium](https://medium.com/@avicndugu/projects-to-practice-html-css-skills-for-beginners-8b9ed67a7dd1)
 
 ---
 
@@ -66,21 +60,17 @@ Git is a distributed version-control system for tracking changes in source code 
 
 JavaScript, often abbreviated as **JS**, is a **programming language** that conforms to the ECMAScript specification. JavaScript is high-level, often just-in-time compiled, and multi-paradigm. It has curly-bracket syntax, dynamic typing, prototype-based object-orientation, and first-class functions.
 
--   [JS Course - YouTube](https://youtu.be/PkZNo7MFNFg)
--   [JS DOM - YouTube](https://youtu.be/FIORjGvT0kk?list=PL4cUxeGkcC9gfoKa5la9dsdCNpuey2s-V)
--   JS BOM
-    -   [JS Window vs Document vs Screen - YouTube](https://youtu.be/pIBKyooZrJQ)
-    -   [Window: move, open, close, size - YouTube](https://youtu.be/ZJng8ls8uH0)
-    -   [cookies vs localStorage vs sessionStorage - YouTube](https://youtu.be/AwicscsvGLg)
-    -   [JS Date Object - YouTube](https://youtu.be/irrxnH-nkqg?list=PL4cUxeGkcC9i9Ae2D9Ee1RvylH38dKuET)
+-   [JS - MDN](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+-   [JS DOM - MDN](https://developer.mozilla.org/en-US/docs/Web/API/Document_Object_Model)
+-   [JS BOM](https://developer.mozilla.org/en-US/docs/Web/API/Window)
+-   [ES6 - YoutTube](http://es6-features.org/#Constants)
 -   [Async JS - YouTube](https://youtu.be/PoRJizFvM7s)
 -   [Async JS include Rxjs - YouTube](https://youtu.be/jgWnccjXR4I)
--   [ES6 Crash Course - YoutTube](https://youtu.be/NCwa_xi0Uuc)
 -   Dive Deep
     -   [Object Creation - YouTube](https://youtu.be/GhbhD1HR5vk?list=PL0zVEGEvSaeHBZFy6Q8731rcwk0Gtuxub)
     -   [Functional Programming - YouTube](https://youtu.be/BMUiFMZr7vk?list=PL0zVEGEvSaeEd9hlmCXrk5yUyqUag-n84)
 -   Good To Know Libs
-    -   [JQuery - YouTube](https://youtu.be/KhtEmR2A1Fw?list=PLWKjhJtqVAbkyK9woUZUtunToLtNGoQHB)
+    -   [JQuery - Docs](https://api.jquery.com/)
 
 ---
 
@@ -97,9 +87,7 @@ Problem solving consists of using **generic methods** in an orderly manner to fi
 
 React is an open-source **JavaScript library** for building user interfaces or UI components. It is maintained by Facebook and a community of individual developers and companies. React can be used as a base in the development of single-page or mobile applications.
 
--   [React Crash Course - YouTube](https://youtu.be/Ke90Tje7VS0)
--   [React Full Course - YouTube](https://youtu.be/QFaFIcGhPoM?list=PLC3y8-rFHvwgg3vaYJgHGnModB54rxOk3)
--   [React Complete Guide - Udemy](https://www.udemy.com/course/react-the-complete-guide-incl-redux/)
+-   [React - DOCS](https://reactjs.org/docs/getting-started.html)
 
 ---
 
