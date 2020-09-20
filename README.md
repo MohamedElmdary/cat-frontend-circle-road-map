@@ -1,4 +1,4 @@
-# Cat Frontend Circle Road Map (English) (Recommended)
+# CAT Frontend Circle Road Map (English) (Recommended)
 
 This road map is all about reaching the target of our circle which cares about moving a zero skilled student to a good point as a front end developer and programmer in general.
 
@@ -7,10 +7,12 @@ This road map is all about reaching the target of our circle which cares about m
 -   [HTML](https://github.com/MohamedElmdary/cat-frontend-circle-road-map#html)
 -   [CSS](https://github.com/MohamedElmdary/cat-frontend-circle-road-map#css)
 -   [HTML5 & CSS3](https://github.com/MohamedElmdary/cat-frontend-circle-road-map#html5-&-css3)
+-   [Git](https://github.com/MohamedElmdary/cat-frontend-circle-road-map#git)
 -   [Javascript](https://github.com/MohamedElmdary/cat-frontend-circle-road-map#javascript)
 -   [Problem Solving](https://github.com/MohamedElmdary/cat-frontend-circle-road-map#problem-solving)
 -   [React JS](https://github.com/MohamedElmdary/cat-frontend-circle-road-map#react-js)
 -   [Channels](https://github.com/MohamedElmdary/cat-frontend-circle-road-map#channels)
+-   [Useful Websites](https://github.com/MohamedElmdary/cat-frontend-circle-road-map#useful-websites)
 -   [Credits](https://github.com/MohamedElmdary/cat-frontend-circle-road-map#credits)
 
 ---
@@ -47,6 +49,14 @@ This road map is all about reaching the target of our circle which cares about m
 
 ---
 
+### Git
+
+Git is a distributed version-control system for tracking changes in source code during software development. It is designed for coordinating work among programmers, but it can be used to track changes in any set of files. Its goals include speed, data integrity, and support for distributed, non-linear workflows.
+
+-   [Git Crash Course - YouTube](https://youtu.be/_OZVJpLHUaI?list=PL55RiY5tL51poFMpbva1IqfO-pylwSNsN)
+
+---
+
 ### Javascript
 
 JavaScript, often abbreviated as **JS**, is a **programming language** that conforms to the ECMAScript specification. JavaScript is high-level, often just-in-time compiled, and multi-paradigm. It has curly-bracket syntax, dynamic typing, prototype-based object-orientation, and first-class functions.
@@ -60,6 +70,12 @@ JavaScript, often abbreviated as **JS**, is a **programming language** that conf
     -   [JS Date Object - YouTube](https://youtu.be/irrxnH-nkqg?list=PL4cUxeGkcC9i9Ae2D9Ee1RvylH38dKuET)
 -   [Async JS - YouTube](https://youtu.be/PoRJizFvM7s)
 -   [Async JS include Rxjs - YouTube](https://youtu.be/jgWnccjXR4I)
+-   [ES6 Crash Course - YoutTube](https://youtu.be/NCwa_xi0Uuc)
+-   Dive Deep
+    -   [Object Creation - YouTube](https://youtu.be/GhbhD1HR5vk?list=PL0zVEGEvSaeHBZFy6Q8731rcwk0Gtuxub)
+    -   [Functional Programming - YouTube](https://youtu.be/BMUiFMZr7vk?list=PL0zVEGEvSaeEd9hlmCXrk5yUyqUag-n84)
+-   Good To Know Libs
+    -   [JQuery - YouTube](https://youtu.be/KhtEmR2A1Fw?list=PLWKjhJtqVAbkyK9woUZUtunToLtNGoQHB)
 
 ---
 
@@ -67,7 +83,8 @@ JavaScript, often abbreviated as **JS**, is a **programming language** that conf
 
 Problem solving consists of using **generic methods** in an orderly manner to find solutions to problems which improve programming skills in general.
 
-> resources
+-   [HackerRank](https://www.hackerrank.com/)
+-   [CodeForces](https://codeforces.com/)
 
 ---
 
@@ -75,7 +92,9 @@ Problem solving consists of using **generic methods** in an orderly manner to fi
 
 React is an open-source **JavaScript library** for building user interfaces or UI components. It is maintained by Facebook and a community of individual developers and companies. React can be used as a base in the development of single-page or mobile applications.
 
-> resources
+-   [React Crash Course - YouTube](https://youtu.be/Ke90Tje7VS0)
+-   [React Full Course - YouTube](https://youtu.be/QFaFIcGhPoM?list=PLC3y8-rFHvwgg3vaYJgHGnModB54rxOk3)
+-   [React Complete Guide - Udemy](https://www.udemy.com/course/react-the-complete-guide-incl-redux/)
 
 ---
 
@@ -93,6 +112,17 @@ React is an open-source **JavaScript library** for building user interfaces or U
 -   [Fireship](https://www.youtube.com/channel/UCsBjURrPoezykLs9EqgamOA)
 -   [DesignCourse](https://www.youtube.com/channel/UCVyRiMvfUNMA1UPlDPzG5Ow)
 -   [Colt Steele](https://www.youtube.com/channel/UCrqAGUPPMOdo0jfQ6grikZw)
+
+---
+
+### Useful Websites
+
+-   [MDN](https://developer.mozilla.org/en-US/)
+-   [CodePen](https://codepen.io/)
+-   [W3School](https://www.w3schools.com/)
+-   [Codrops](https://tympanus.net/codrops/)
+-   [Medium](https://medium.com/)
+-   [JsFiddle](https://jsfiddle.net/)
 
 ---
 
