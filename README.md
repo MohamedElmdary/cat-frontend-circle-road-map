@@ -17,7 +17,7 @@ This road map is all about reaching the target of our circle which cares about m
 -   [Problem Solving](#problem-solving)
 -   [Frameworks](#frameworks)
     -   [React JS](#react-js)
-    -   [Angular 2+](#angular-2+)
+    -   [Angular 2+](#angular-2)
 -   [Channels](#channels)
 -   [Useful Websites](#useful-websites)
 -   [Credits](#credits)
