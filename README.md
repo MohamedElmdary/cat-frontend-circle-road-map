@@ -15,7 +15,9 @@ This road map is all about reaching the target of our circle which cares about m
 -   [Git](#git)
 -   [Javascript](#javascript)
 -   [Problem Solving](#problem-solving)
--   [React JS](#react-js)
+-   [Frameworks](#frameworks)
+    -   [React JS](#react-js)
+    -   [Angular 2+](#angular-2+)
 -   [Channels](#channels)
 -   [Useful Websites](#useful-websites)
 -   [Credits](#credits)
@@ -93,13 +95,22 @@ Problem solving consists of using **generic methods** in an orderly manner to fi
 
 ---
 
-### React Js
+### Frameworks
+
+#### React Js
 
 React is an open-source **JavaScript library** for building user interfaces or UI components. It is maintained by Facebook and a community of individual developers and companies. React can be used as a base in the development of single-page or mobile applications.
 
 -   [React Crash Course - YouTube](https://youtu.be/Ke90Tje7VS0)
 -   [React Full Course - YouTube](https://youtu.be/QFaFIcGhPoM?list=PLC3y8-rFHvwgg3vaYJgHGnModB54rxOk3)
 -   [React Complete Guide - Udemy](https://www.udemy.com/course/react-the-complete-guide-incl-redux/)
+
+#### Angular 2+
+
+Angular is a **TypeScript-based** open-source web application framework led by the Angular Team at Google and by a community of individuals and corporations. Angular is a complete rewrite from the same team that built AngularJS.
+
+-   [Angular Full Course - YouTube](https://youtu.be/WWQZCDegWHg?list=PL6n9fhu94yhWqGD8BuKuX-VTKqlNBj-m6)
+-   [Angular Course - Udemy](https://www.udemy.com/course/the-complete-guide-to-angular-2/)
 
 ---
 
